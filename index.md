@@ -5,7 +5,8 @@ subtitle: 角色資料與世界觀整理
 <div class="card">
   <span class="badge">更新資訊</span>
   2025/12/21架起來
-  佛系更新
+  佛系更新<br>
+  + 角色_霧崎柊、角色_鬼龍院櫻、角色_一色理、角色_白原透
 </div>
 
 
