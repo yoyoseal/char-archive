@@ -1,6 +1,6 @@
 :root{
   --bg: #C1C1C1;          /* 全站背景 */
-  --panel: #ffffff;      /* 內容卡片 */
+  --panel: #dbdbdb;      /* 內容卡片 */
   --border: #dddddd;     /* 邊框 */
   --text: #222222;       /* 主要文字 */
   --muted: #666666;      /* 次要文字 */
