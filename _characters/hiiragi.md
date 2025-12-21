@@ -4,7 +4,6 @@ subtitle: 霧隱之子
 ---
 <p align="center">
   <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
-    <figcaption class="small">※ 角色印象</figcaption>
 </p>
 
 <div class="card">
@@ -67,6 +66,8 @@ subtitle: 霧隱之子
   <p align="center">
     <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" width="260">
     <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" width="260">
+    <img src="{{ '/images/hiiragi/hiiragi_1.png' | relative_url }}" width="260">
+    <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}" width="260">
   </p>
 </div>
 
@@ -79,7 +80,8 @@ subtitle: 霧隱之子
   ">
     <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}">
     <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}">
-    <img src="{{ '/images/hiiragi/banner.png' | relative_url }}">
+    <img src="{{ '/images/hiiragi/hiiragi_1.png' | relative_url }}">
+    <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}">
   </div>
 </div>
 
