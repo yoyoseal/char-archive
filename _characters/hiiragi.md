@@ -8,8 +8,8 @@ subtitle: char_hiiragi
 
   <table class="table">
     <tr>
-      <td style="width: 732;">
-        <img src="/images/hiiragi/banner.png" alt="霧崎柊banner">
+      <td style="width: 300;">
+        <img src="/images/hiiragi/portrait.png" alt="柊portrait">
       </td>
       <td>
         <div><span class="badge">年齡</span> 46</div>
