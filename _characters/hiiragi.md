@@ -3,7 +3,7 @@ title: 霧崎 柊
 subtitle: 霧隱之子
 ---
 <p align="center">
-  <img src="/images/hiiragi/banner.png" width="600">
+  <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
 </p>
 
 <div class="card">
