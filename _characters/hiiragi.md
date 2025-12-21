@@ -8,7 +8,7 @@ subtitle: char_hiiragi
 
   <table class="table">
     <tr>
-      <td style="width: 732:˙;">
+      <td style="width: 732;">
         <img src="/images/hiiragi/banner.png" alt="霧崎柊banner">
       </td>
       <td>
