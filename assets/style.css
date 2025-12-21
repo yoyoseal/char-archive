@@ -192,3 +192,28 @@ img{
   color: #666;
   border-color: #e5e5e5;
 }
+
+/* 右下角「回到最上」浮動按鈕 */
+.fab-top{
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  background: #f3f3f3;
+  border: 1px solid #dcdcdc;
+  color: #444;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(0,0,0,.12);
+  opacity: .85;
+  z-index: 999;
+}
+
+.fab-top:hover{
+  opacity: 1;
+  background: #ffffff;
+}
