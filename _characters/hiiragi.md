@@ -78,8 +78,8 @@ subtitle: 霧隱之子
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     gap: 12px;
   ">
-    <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}">
     <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}">
+    <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}">
     <img src="{{ '/images/hiiragi/hiiragi_1.png' | relative_url }}">
     <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}">
   </div>
