@@ -68,3 +68,17 @@ subtitle: 霧隱之子
     <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" width="260">
   </p>
 </div>
+
+## 參考圖片
+<div class="card">
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+  ">
+    <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}">
+    <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}">
+    <img src="{{ '/images/hiiragi/banner.png' | relative_url }}">
+  </div>
+</div>
+
