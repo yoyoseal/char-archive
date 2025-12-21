@@ -3,7 +3,7 @@ title: 霧崎 柊
 subtitle: char_hiiragi
 ---
 <p align="center">
-  <img src="../images/hiiragi/banner.png" width="732">
+  <img src="../images/hiiragi/banner.png" width="600">
 </p>
 
 <div class="card">
