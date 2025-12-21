@@ -4,6 +4,7 @@ subtitle: 霧隱之子
 ---
 <p align="center">
   <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
+    <figcaption class="small">※ 角色印象</figcaption>
 </p>
 
 <div class="card">
