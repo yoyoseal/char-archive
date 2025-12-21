@@ -2,10 +2,19 @@
 title: 霧崎 柊
 subtitle: 霧隱之子
 ---
+<a id="top"></a>
+
+<div class="card small">
+  <strong>快速跳轉：</strong>
+  <a href="#basic">基本資訊</a> ·
+  <a href="#gallery">參考圖片</a>
+</div>
+
 <p align="center">
   <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
 </p>
 
+<a id="basic"></a>
 <div class="card">
   <span class="tag">現代</span>
   <span class="tag tag-muted">原始設定</span>
@@ -62,6 +71,7 @@ subtitle: 霧隱之子
 </div>
 
 ## 參考圖片
+<a id="gallery"></a>
 <div class="card">
   <span class="tag">立繪</span>
   <span class="tag tag-muted">參考</span>
@@ -87,3 +97,7 @@ subtitle: 霧隱之子
   </div>
 </div>
 
+<div class="card small" style="display:flex; justify-content:space-between;">
+  <a href="{{ '/characters/' | relative_url }}">← 回到角色列表</a>
+  <a href="#top">↑ 回到最上面</a>
+</div>
