@@ -2,20 +2,25 @@
 title: 霧崎 柊
 subtitle: char_hiiragi
 ---
+<p align="center">
+  <img src="../images/hiiragi/banner.png" width="732">
+</p>
 
 <div class="card">
-  <div class="small">角色卡</div>
+  <div class="small"></div>
 
   <table class="table">
     <tr>
       <td style="width: 300;">
-        <img src="/images/hiiragi/portrait.png" alt="柊portrait">
-      </td>
-      <td>
         <div><span class="badge">年齡</span> 46</div>
         <div><span class="badge">身高</span> 185cm</div>
         <div><span class="badge">性別</span> 男</div>
-        <div><span class="badge">職業</span> 藝術協會警備隊長</div>
+      </td>
+      <td>
+        <div><span class="badge">時代</span> 現代</div>
+        <div><span class="badge">地區</span> 都市南區</div>
+        <div><span class="badge">隸屬</span> 藝術協會</div>
+        <div><span class="badge">職業</span> 警備隊長</div>
       </td>
     </tr>
   </table>
@@ -35,21 +40,21 @@ subtitle: char_hiiragi
 
 ## 愛好、專長
 <div class="card">
--  喜歡讀工具書、親自學習新的技術
--  喜歡各種平民美食、地方特產
--  天生擅長如追跡、弱點分析、鬥毆等技能，但本人對於何時又如何學起這些沒有印象
+-  喜歡讀工具書、親自學習新的技術<br>
+-  喜歡各種平民美食、地方特產<br>
+-  天生擅長如追跡、弱點分析、鬥毆等技能，但本人對於何時又如何學起這些沒有印象<br>
 -  喜歡白鴨子
 </div>
 
 ## 排斥、不擅長
 <div class="card">
--  美術品，尤其是畫作
--  陳列美術畫作的美術館
+-  美術品，尤其是畫作<br>
+-  陳列美術畫作的美術館<br>
 -  恐怖作品，包括但不限於：恐怖電影、影集、漫畫與小說甚至鬼故事
 </div>
 
 ## 備註
 <div class="card">
--  擁有水仙設定
+-  擁有水仙設定<br>
 -  沒有大約中學以前的記憶，對於此是異常地沒有任何想法與好奇
 </div>
