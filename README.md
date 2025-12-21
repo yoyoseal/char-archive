@@ -1,2 +1,3 @@
-# char-archive
-角色資料整理
+# 角色資料站
+
+- [霧崎 柊](characters/hiiragi.md)
