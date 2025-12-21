@@ -91,7 +91,7 @@ subtitle: 霧隱之子
 
 <div class="card">
   <span class="tag">立繪</span>
-  <span class="tag tag-muted">參考></span>
+  <span class="tag tag-muted">參考</span>
 
   <div style="
     display: grid;
