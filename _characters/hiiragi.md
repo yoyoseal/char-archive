@@ -56,5 +56,15 @@ subtitle: 霧隱之子
 ## 備註
 <div class="card">
 -  擁有水仙設定<br>
--  沒有大約中學以前的記憶，對於此是異常地沒有任何想法與好奇
+-  沒有大約中學以前的記憶，對於此事異常地沒有任何想法與好奇心
+</div>
+
+## 參考圖片
+<div class="card">
+  <p class="small">圖片參考</p>
+
+  <p align="center">
+    <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" width="260">
+    <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" width="260">
+  </p>
 </div>
