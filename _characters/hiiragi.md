@@ -99,6 +99,5 @@ order: 50
 </div>
 
 <div class="card small" style="display:flex; justify-content:space-between;">
-  <a href="{{ '/characters/' | relative_url }}">← 回到角色列表</a>
   <a href="#top">↑ 回到最上面</a>
 </div>
