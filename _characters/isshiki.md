@@ -90,12 +90,11 @@ order: 150
   ">
     <figure style="margin:0;">
       <img src="{{ '/images/isshiki/isshiki_1.png' | relative_url }}" alt="立繪">
-      <figcaption class="small">藝術協會</figcaption>
+      <figcaption class="small">通常裝扮</figcaption>
     </figure>
   </div>
 </div>
 
 <div class="card small" style="display:flex; justify-content:space-between;">
-  <a href="{{ '/characters/' | relative_url }}">← 回到角色列表</a>
   <a href="#top">↑ 回到最上面</a>
 </div>
