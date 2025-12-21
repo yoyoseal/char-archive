@@ -12,7 +12,7 @@ order: 150
 </div>
 
 <p align="center">
-  <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
+  <img src="{{ '/images/isshiki/banner.png' | relative_url }}" width="600">
 </p>
 
 <a id="basic"></a>
@@ -24,15 +24,15 @@ order: 150
   <table class="table">
     <tr>
       <td style="width: 300;">
-        <div><span class="badge">年齡</span> 46</div>
-        <div><span class="badge">身高</span> 185cm</div>
+        <div><span class="badge">年齡</span> ??</div>
+        <div><span class="badge">身高</span> 179cm</div>
         <div><span class="badge">性別</span> 男</div>
       </td>
       <td>
-        <div><span class="badge">時代</span> 現代</div>
-        <div><span class="badge">地區</span> 都市南區</div>
-        <div><span class="badge">隸屬</span> 藝術協會</div>
-        <div><span class="badge">職業</span> 警備隊長</div>
+        <div><span class="badge">時代</span> ??</div>
+        <div><span class="badge">地區</span> ??</div>
+        <div><span class="badge">隸屬</span> ??</div>
+        <div><span class="badge">職業</span> 研究員</div>
       </td>
     </tr>
   </table>
@@ -40,35 +40,40 @@ order: 150
 
 ## 外貌、特徵
 <div class="card">
-外貌：深灰藍色的旁分髮型，右側瀏海較長，深黑色眼睛 神情和善、體格偏高大的中年男性<br>
-特徵：難以察覺的暗紅色瞳孔<br>
-常見穿著／配件：藏藍色襯衫與深色西裝褲，喜歡偏深藍色系的樸素裝扮 
+外貌：深紫色旁分髮型、束有一段即胸的細馬尾置於身前，面色有些凝重的男性<br>
+特徵：有著一對羽翼即地的翅膀與發著白藍色光芒的光環<br>
+常見穿著／配件：白大褂與識別證，總是穿著著研究員式的服裝
 </div>
 
 ## 性格
 <div class="card">
--  和煦善良，有點天然
+-  拘謹且嚴肅，常以專業知識包裝日常話題迴避自己對於生活一竅不通的事實<br>
+-  卸下職業面具後很不擅長說話<br>
+-  不太喜歡交流
 </div>
 
 ## 愛好、專長
 <div class="card">
--  喜歡讀工具書、親自學習新的技術<br>
--  喜歡各種平民美食、地方特產<br>
--  天生擅長如追跡、弱點分析、鬥毆等技能，但本人對於何時又如何學起這些沒有印象<br>
--  喜歡白鴨子
+-  喜歡看電視，觀賞動物與自然頻道的節目<br>
+-  很久很久以前喜歡欣賞藝術歌劇<br>
+-  擅長修理各種魔術道具，是熟悉第四色的工匠
+-  喜歡吃甜甜圈
+-  很喜歡頭頂上的光環
 </div>
 
 ## 排斥、不擅長
 <div class="card">
--  美術品，尤其是畫作<br>
--  陳列美術畫作的美術館<br>
--  恐怖作品，包括但不限於：恐怖電影、影集、漫畫與小說甚至鬼故事
+-  與熟人以外的對象交談工作以外的事<br>
+-  不喜歡藝術工作<br>
+-  不擅長畫圖、也不擅長歌唱<br>
+-  對如何「生活」不熟悉
 </div>
 
 ## 備註
 <div class="card">
--  擁有水仙設定<br>
--  沒有大約中學以前的記憶，對於此事異常地沒有任何想法與好奇心
+-  翅膀是他自己的，光環不是他的<br>
+-  有失憶症狀
+-  居住在只有他自己存在的海下設施中
 </div>
 
 ## 參考圖片
@@ -84,16 +89,8 @@ order: 150
     margin-top: 12px;
   ">
     <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" alt="立繪">
+      <img src="{{ '/images/isshiki/isshiki_1.png' | relative_url }}" alt="立繪">
       <figcaption class="small">藝術協會</figcaption>
-    </figure>
-    <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" alt="立繪">
-      <figcaption class="small">常服</figcaption>
-    </figure>
-        <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}" alt="立繪">
-      <figcaption class="small">水仙(霧崎)</figcaption>
     </figure>
   </div>
 </div>
