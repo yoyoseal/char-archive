@@ -7,6 +7,8 @@ subtitle: 霧隱之子
 </p>
 
 <div class="card">
+  <span class="tag">現代</span>
+  <span class="tag tag-muted">原始設定</span>
   <div class="small"></div>
 
   <table class="table">
@@ -105,40 +107,6 @@ subtitle: 霧隱之子
     <figure style="margin:0;">
       <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" alt="全身">
       <figcaption class="small">立繪／全身</figcaption>
-    </figure>
-  </div>
-</div>
-
-<div class="card">
-  <span class="tag">草稿</span>
-  <span class="tag tag-muted">概念</span>
-
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 12px;
-    margin-top: 12px;
-  ">
-    <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" alt="草稿">
-      <figcaption class="small">塗鴉／構圖草案</figcaption>
-    </figure>
-  </div>
-</div>
-
-<div class="card">
-  <span class="tag">別 Paro</span>
-  <span class="tag tag-muted">亞人 Paro</span>
-
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 12px;
-    margin-top: 12px;
-  ">
-    <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" alt="paro">
-      <figcaption class="small">亞人 Paro／參考圖</figcaption>
     </figure>
   </div>
 </div>
