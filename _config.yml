@@ -1,0 +1,21 @@
+title: 角色資料整理頁
+description: Character archive & world notes
+theme: null
+
+# 讓 GitHub Pages 能處理 markdown
+markdown: kramdown
+
+# 站點結構（讓 /characters/ 與 /world/ 能正常變頁面）
+collections:
+  characters:
+    output: true
+    permalink: /characters/:name/
+  world:
+    output: true
+    permalink: /world/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
