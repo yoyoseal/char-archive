@@ -32,5 +32,5 @@
 
 ## 測試
 
-| ![立繪](../images/hiiragi/portrait.png) | **霧崎 柊**<br>年齡：46<br>身高：195cm<br>種族：狼亞人 |
+| ![立繪](../images/hiiragi/portrait.png) | **霧崎 柊**<br>年齡：46<br>身高：185cm |
 |---|---|
