@@ -91,7 +91,7 @@ subtitle: 霧隱之子
 
 <div class="card">
   <span class="tag">立繪</span>
-  <span class="tag tag-muted">正設</span>
+  <span class="tag tag-muted">參考></span>
 
   <div style="
     display: grid;
@@ -101,12 +101,11 @@ subtitle: 霧隱之子
   ">
     <figure style="margin:0;">
       <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" alt="立繪">
-      <figcaption class="small">立繪／頭像</figcaption>
+      <figcaption class="small">常服</figcaption>
     </figure>
-
     <figure style="margin:0;">
       <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" alt="全身">
-      <figcaption class="small">立繪／全身</figcaption>
+      <figcaption class="small">藝術協會</figcaption>
     </figure>
   </div>
 </div>
