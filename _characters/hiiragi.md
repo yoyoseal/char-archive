@@ -5,7 +5,7 @@ subtitle: 霧隱之子
 <a id="top"></a>
 
 <div class="card small">
-  <strong>快速跳轉：</strong>
+  <strong></strong>
   <a href="#basic">基本資訊</a> ·
   <a href="#gallery">參考圖片</a>
 </div>
@@ -83,12 +83,12 @@ subtitle: 霧隱之子
     margin-top: 12px;
   ">
     <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" alt="立繪">
-      <figcaption class="small">常服</figcaption>
-    </figure>
-    <figure style="margin:0;">
       <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" alt="立繪">
       <figcaption class="small">藝術協會</figcaption>
+    </figure>
+    <figure style="margin:0;">
+      <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" alt="立繪">
+      <figcaption class="small">常服</figcaption>
     </figure>
         <figure style="margin:0;">
       <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}" alt="立繪">
