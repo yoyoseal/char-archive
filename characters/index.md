@@ -1,6 +1,7 @@
 ---
 title: 角色
-subtitle: 點進去看每位角色的檔案
+subtitle: 目前有的角色介紹
 ---
 
-- [霧崎 柊](/characters/hiiragi/)
+- [霧崎 柊](/char-archive/hiiragi/)
+- [霧崎 柊2](/_characters/hiiragi/)
