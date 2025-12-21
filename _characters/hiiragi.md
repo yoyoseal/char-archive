@@ -63,33 +63,6 @@ subtitle: 霧隱之子
 
 ## 參考圖片
 <div class="card">
-  <p class="small">圖片參考</p>
-
-  <p align="center">
-    <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}" width="260">
-    <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" width="260">
-    <img src="{{ '/images/hiiragi/hiiragi_1.png' | relative_url }}" width="260">
-    <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}" width="260">
-  </p>
-</div>
-
-## 參考圖片
-<div class="card">
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 12px;
-  ">
-    <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}">
-    <img src="{{ '/images/hiiragi/portrait.png' | relative_url }}">
-    <img src="{{ '/images/hiiragi/hiiragi_1.png' | relative_url }}">
-    <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}">
-  </div>
-</div>
-
-## 參考圖片
-
-<div class="card">
   <span class="tag">立繪</span>
   <span class="tag tag-muted">參考</span>
 
@@ -104,8 +77,12 @@ subtitle: 霧隱之子
       <figcaption class="small">常服</figcaption>
     </figure>
     <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" alt="全身">
+      <img src="{{ '/images/hiiragi/fullbody.png' | relative_url }}" alt="立繪">
       <figcaption class="small">藝術協會</figcaption>
+    </figure>
+        <figure style="margin:0;">
+      <img src="{{ '/images/hiiragi/hiiragi_2.png' | relative_url }}" alt="立繪">
+      <figcaption class="small">水仙(霧崎)</figcaption>
     </figure>
   </div>
 </div>
