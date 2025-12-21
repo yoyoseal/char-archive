@@ -4,6 +4,10 @@ subtitle: 霧隱之子
 ---
 <p align="center">
   <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
+      <figure style="margin:0;">
+      <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" alt="草稿">
+      <figcaption class="small">塗鴉</figcaption>
+    </figure>
 </p>
 
 <div class="card">
