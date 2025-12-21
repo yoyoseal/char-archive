@@ -1,7 +1,8 @@
 # 霧崎 柊
 
-![柊banner](../images/hiiragi/banner.png)
-![柊立繪](../images/hiiragi/portrait.png)
+<p align="center">
+  <img src="../images/hiiragi/banner.png" width="732">
+</p>
 
 ---
 
@@ -20,3 +21,16 @@
 
 ## 備註
 - 擁有水仙設定
+
+---
+
+## 圖片
+
+![柊立繪](../images/hiiragi/portrait.png) ![柊立繪2](../images/hiiragi/fullbody.png)
+
+---
+
+## 測試
+
+| ![立繪](../images/hiiragi/portrait.png) | **霧崎 柊**<br>年齡：46<br>身高：195cm<br>種族：狼亞人 |
+|---|---|
