@@ -31,8 +31,43 @@
       {% endif %}
 
       <article class="content">
-        {{ content }}
-      </article>
+  {{ content }}
+</article>
+
+{% if page.collection == 'characters' %}
+  {% assign sorted_chars = site.characters | sort: 'order' %}
+  {% for c in sorted_chars %}
+    {% if c.url == page.url %}
+      {% assign idx = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if idx != nil %}
+    {% assign prev_idx = idx | minus: 1 %}
+    {% assign next_idx = idx | plus: 1 %}
+    {% assign prev_char = sorted_chars[prev_idx] %}
+    {% assign next_char = sorted_chars[next_idx] %}
+
+    <div class="card small" style="display:flex; justify-content:space-between; align-items:center; margin-top:16px;">
+      <div>
+        {% if prev_char %}
+          <a href="{{ prev_char.url | relative_url }}">← 上一角色：{{ prev_char.title }}</a>
+        {% endif %}
+      </div>
+
+      <div>
+        <a href="{{ '/characters/' | relative_url }}">回角色列表</a>
+      </div>
+
+      <div style="text-align:right;">
+        {% if next_char %}
+          <a href="{{ next_char.url | relative_url }}">下一角色：{{ next_char.title }} →</a>
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
+{% endif %}
+
 
       <footer class="footer">
         <div class="muted">© {{ site.title }} · Powered by GitHub Pages</div>
