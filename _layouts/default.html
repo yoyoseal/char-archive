@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} · {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="wrap topbar-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="nav">
+          <a href="{{ '/' | relative_url }}">首頁</a>
+          <a href="{{ '/characters/' | relative_url }}">角色</a>
+          <a href="{{ '/world/' | relative_url }}">世界觀</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      {% if page.title %}
+        <div class="page-head">
+          <h1>{{ page.title }}</h1>
+          {% if page.subtitle %}
+            <p class="subtitle">{{ page.subtitle }}</p>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <article class="content">
+        {{ content }}
+      </article>
+
+      <footer class="footer">
+        <div class="muted">© {{ site.title }} · Powered by GitHub Pages</div>
+      </footer>
+    </main>
+  </body>
+</html>
