@@ -1,6 +1,6 @@
 ---
 title: 霧崎 柊
-subtitle: char_hiiragi
+subtitle: 霧隱之子
 ---
 <p align="center">
   <img src="../images/hiiragi/banner.png" width="600">
