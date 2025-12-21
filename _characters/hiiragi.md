@@ -4,17 +4,13 @@ subtitle: 霧隱之子
 ---
 <p align="center">
   <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" width="600">
-      <figure style="margin:0;">
-      <img src="{{ '/images/hiiragi/banner.png' | relative_url }}" alt="草稿">
-      <figcaption class="small">塗鴉</figcaption>
-    </figure>
 </p>
 
 <div class="card">
   <span class="tag">現代</span>
   <span class="tag tag-muted">原始設定</span>
   <div class="small"></div>
-
+<br>
   <table class="table">
     <tr>
       <td style="width: 300;">
