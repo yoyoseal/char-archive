@@ -1,6 +1,7 @@
 ---
 title: 霧崎 柊
 subtitle: 霧隱之子
+order: 50
 ---
 <a id="top"></a>
 
