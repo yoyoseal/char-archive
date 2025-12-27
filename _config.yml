@@ -13,6 +13,9 @@ collections:
   world:
     output: true
     permalink: /world/:name/
+  articles:
+    output: true
+    permalink: /articles/:name/
 
 defaults:
   - scope:
