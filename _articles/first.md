@@ -12,3 +12,8 @@ tags: [日記, 雜談]
 寫文章就搬這裡的格式用
 
   <img src="{{ '/images/common/poke_photo_1.png' | relative_url }}" width="400">
+
+
+<div class="card small" style="display:flex; justify-content:space-between;">
+  <a href="{{ '/articles/' | relative_url }}">← 回到文章一覽</a>
+</div>
