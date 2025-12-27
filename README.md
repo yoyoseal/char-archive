@@ -1,3 +1,4 @@
 # 角色資料站
 
-- [霧崎 柊](characters/hiiragi.md)
+放角色資料用的
+
