@@ -3,7 +3,7 @@ title: 首頁
 subtitle: 角色資料與世界觀整理
 ---
 <div class="card">
-  <span class="badge">更新資訊</span>
+  <span class="badge">更新資訊</span><br>
   2025/12/27文章區<br>
   2025/12/21架起來<br>
   佛系更新<br>
