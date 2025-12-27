@@ -10,3 +10,5 @@ tags: [日記, 雜談]
 </div>
 
 寫文章就搬這裡的格式用
+
+<img src="{{ '/images/common/poke_photo_1.png' | relative_url }}" alt="scene">
